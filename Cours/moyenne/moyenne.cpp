@@ -3,7 +3,7 @@
 
 using namespace std;
 
-float moyenneTab(int tableau[],int tailleTableau)
+float moyenneTab(int tableau[],int tailleTableau)   //Fonction avec un tableau en argument 
 {
     float moyenne=0;
     for(int i=0;i<tailleTableau;++i)

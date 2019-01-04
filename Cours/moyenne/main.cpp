@@ -5,6 +5,14 @@ using namespace std;
 
 int main()
 {
+    cout<<"-----Tableau-----"<<endl;
+
+    cout<<endl;
+
+    cout<<" "<<"Programme qui calcule ta moyenne à l'aide d'une fonction qui comporte un tableau et un entier en argument"<<endl; 
+
+    cout<<endl;
+
     int nbnotes=0;
     int notes[nbnotes];   
 

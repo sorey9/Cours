@@ -6,6 +6,14 @@ using namespace std;
 
 int main()
 {
+    cout<<"-----Vector-----"<<endl;
+
+    cout<<endl;
+
+    cout<<" "<<"Programme qui calcule ta moyenne à l'aide d'une fonction qui comporte un vector en argument"<<endl;
+    
+    cout<<endl;
+
     int nombrenotes=1;
     vector<int>note;
     int N=1;
